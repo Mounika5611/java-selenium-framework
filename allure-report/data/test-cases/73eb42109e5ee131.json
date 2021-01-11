@@ -1,0 +1,62 @@
+{
+  "uid" : "73eb42109e5ee131",
+  "name" : "Test1",
+  "fullName" : "org.signintest.tests.TestLogin.Test1",
+  "historyId" : "2584ca0e5a73e0eb61f0041b41e6d93b",
+  "time" : {
+    "start" : 1610252472478,
+    "stop" : 1610252472493,
+    "duration" : 15
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "org.signintest.tests.TestLogin"
+  }, {
+    "name" : "testClass",
+    "value" : "org.signintest.tests.TestLogin"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test1"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "org.signintest.tests.TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "WIN-AOQ3PH75J0P"
+  }, {
+    "name" : "thread",
+    "value" : "4788@WIN-AOQ3PH75J0P.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "73eb42109e5ee131.json",
+  "parameterValues" : [ ]
+}

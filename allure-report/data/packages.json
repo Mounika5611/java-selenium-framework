@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "org.signintest.tests.TestLogin",
+    "children" : [ {
+      "name" : "Test1",
+      "uid" : "73eb42109e5ee131",
+      "parentUid" : "dc386cd6605dadbd4dc87f8c69ef5d2c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1610252472478,
+        "stop" : 1610252472493,
+        "duration" : 15
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "org.signintest.tests.TestLogin"
+  } ]
+}

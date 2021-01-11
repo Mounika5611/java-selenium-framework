@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "WIN-AOQ3PH75J0P",
+    "children" : [ {
+      "name" : "4788@WIN-AOQ3PH75J0P.main(1)",
+      "children" : [ {
+        "name" : "Test1",
+        "uid" : "73eb42109e5ee131",
+        "parentUid" : "6dc5008c43f2e3f4d9c82ec53e299d9e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1610252472478,
+          "stop" : 1610252472493,
+          "duration" : 15
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6dc5008c43f2e3f4d9c82ec53e299d9e"
+    } ],
+    "uid" : "dd94626cff76c7ec2817d491a4ed9788"
+  } ]
+}
